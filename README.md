@@ -1,1 +1,1 @@
-# machine-learning
+# Kernel methods for Quantum Machine Learning
