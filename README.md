@@ -1,5 +1,6 @@
 # Kernel methods for Quantum Machine Learning
-based on:\\
+based on:
+
 [1]SCHULD, Maria; FINGERHUTH, Mark; PETRUCCIONE, Francesco. Implementing a distance-based classifier with a quantum interference circuit. EPL (Europhysics Letters), 2017, 119.6: 60002.
 
 [2]SADOWSKI, Przemysław. Quantum distance-based classifier with constant size memory, distributed knowledge and state recycling. arXiv preprint arXiv:1803.00853, 2018.
