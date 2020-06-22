@@ -9,3 +9,7 @@ based on:
 
 [4]WEZEMAN, Robert; NEUMANN, Niels; PHILLIPSON, Frank. Distance-based classifier on the Quantum Inspire. In: First International Symposium on Applied Artificial Intelligence (ISAAI’19), München (Germany), 2019. 2019.
 
+
+
+Markellos Anastasios M.Sc. Theoretical Physicist
+
